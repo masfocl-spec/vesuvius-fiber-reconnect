@@ -1,0 +1,8 @@
+method,proposals,true,false_cross_fiber,unjudgeable,gaps_closed,gaps_baseline,events_available
+A0_nearest_greedy,3229,5,0,3224,5,96,28
+A1_dist_hungarian,3468,6,0,3462,6,96,28
+B1a_hard_tangent,2953,3,0,2950,3,96,28
+B1b_soft_tangent,1874,4,0,1870,4,96,28
+B1c_tangent,1807,3,0,1804,3,96,28
+B2_tangent_curv,749,3,0,746,3,96,28
+B3_full,643,2,0,641,2,96,28

@@ -1,0 +1,8 @@
+method,seed,n_breaks,repaired,repaired_pct,unrepaired,false_cross_fiber,extra_same_fiber,pos_err_mean_vox,pos_err_p95_vox,pos_err_max_vox,hard_breaks_near_parallel,hard_repaired,easy_repaired,proposals_total
+A0_nearest_greedy,7,84,57,67.9,27,14,0,1.31,2.57,5.98,8,5/8,52/76,71
+A1_dist_hungarian,7,84,69,82.1,15,9,0,1.29,2.49,4.35,8,6/8,63/76,78
+B1a_dist_hard_tangent,7,84,74,88.1,10,4,0,1.27,2.45,4.35,8,7/8,67/76,78
+B1b_dist_soft_tangent,7,84,78,92.9,6,0,0,1.25,2.42,4.35,8,7/8,71/76,78
+B1c_dist_tangent,7,84,78,92.9,6,0,0,1.25,2.42,4.35,8,7/8,71/76,78
+B2_dist_tangent_curv,7,84,69,82.1,15,0,0,1.15,2.26,3.6,8,5/8,64/76,69
+B3_full_geometry,7,84,67,79.8,17,0,0,1.16,2.27,3.6,8,3/8,64/76,67
